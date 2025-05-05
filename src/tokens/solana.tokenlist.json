@@ -1,1 +1,10 @@
+{
+  "chainId": 101,
+  "address": "Dc7C7etcdYmh5FSNxwfqusWrghhvyMw4tiq68U5MCALD",
+  "symbol": "DMT",
+  "name": "DMT",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/rickstasser/token-list/main/assets/mainnet/Dc7C7etcdYmh5FSNxwfqusWrghhvyMw4tiq68U5MCALD/Dc7C7etcdYmh5FSNxwfqusWrghhvyMw4tiq68U5MCALD.png",
+  "tags": ["utility-token", "psychedelic"]
+}
 
